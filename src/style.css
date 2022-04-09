@@ -1,0 +1,8 @@
+h1, p {
+  font-family: Lato;
+}
+table,th,td {
+  border : 1px solid red;
+  border-collapse: collapse;
+
+}
